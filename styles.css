@@ -10,7 +10,7 @@ body{
 .btn {
   position: absolute;
   top: 640px;
-  left: 1300px;
+  left: 1250px;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   background-color: #555;
